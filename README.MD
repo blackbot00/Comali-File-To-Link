@@ -52,6 +52,7 @@ Press the below button to Fast deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blackbot00/Comali-File-To-Link)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Aadhi000/File-To-Link&branch=main&name=file2link-bot)
 
 🚀Features<p>
 💥Superfast⚡️ download and stream links.<br>
